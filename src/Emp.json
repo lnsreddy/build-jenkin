@@ -1,0 +1,18 @@
+{
+	"employee": {
+		"firstName": "Narasimha",
+		"lastName": "Reddy",
+		"address": [
+			{
+				"street": "a",
+				"city": "b",
+				"state": "c"
+			},
+			{
+				"street": "a1",
+				"city": "b1",
+				"state": "c1"
+			}
+		]
+	}
+}
